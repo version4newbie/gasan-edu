@@ -13,8 +13,8 @@ GPMATCHING
 # 코드 컨벤션
 
 # 관련링크(커뮤니티)
-https://duo.op.gg/ko/lol/  
-https://your.gg/ko/kr/duo-request  
+<https://duo.op.gg/ko/lol/>  
+<https://your.gg/ko/kr/duo-request>  
 
 # contribute 방법설명
 
