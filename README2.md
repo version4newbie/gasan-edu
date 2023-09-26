@@ -21,5 +21,5 @@ TBD
 TBD
 
 # 라이선스 명시
-TBD
+MIT,,
 
